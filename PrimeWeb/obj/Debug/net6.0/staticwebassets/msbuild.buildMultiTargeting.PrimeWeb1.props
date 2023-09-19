@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PrimeWeb1.props" />
+</Project>

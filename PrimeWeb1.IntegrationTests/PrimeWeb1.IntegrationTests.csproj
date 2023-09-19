@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PrimeWeb1\PrimeWeb1.csproj" />
+    <ProjectReference Include="..\PrimeWeb\PrimeWeb.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,4 +1,4 @@
-namespace PrimeWeb1.UnitTests
+namespace PrimeWeb.UnitTests
 {
     public class PrimeService_IsPrimeShould
     {

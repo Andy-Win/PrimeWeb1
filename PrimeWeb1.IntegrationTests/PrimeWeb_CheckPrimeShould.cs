@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.TestHost;
 
-namespace PrimeWeb1.IntegrationTests
+namespace PrimeWeb.IntegrationTests
 {
     public class PrimeWeb_DefaultRequestShould
     {
